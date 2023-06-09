@@ -1,2 +1,2 @@
-# TinyML For Beginners
- TinyML For Beginners, by BPB Publications
+# Hands-on TinyML
+Hands-on TinyML, by BPB Publications
